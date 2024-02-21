@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio of my recent and no so recent work.
+Portfolio of my recent and not-so-recent work.
 Since I hadn't yet developed a habit of consistently uploading my projects to GitHub, this portfolio was assembled with some examples of my recent work and a fun example from when I first started learning how to code. 
 
 There are currently five subfolders in this repository.
