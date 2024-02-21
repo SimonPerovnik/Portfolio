@@ -1,6 +1,6 @@
 # Portfolio
 Portfolio of my recent and not-so-recent work.
-Since I hadn't yet developed a habit of consistently uploading my projects to GitHub, this portfolio was assembled with some examples of my recent work and a fun example from when I first started learning how to code. 
+Since I hadn't yet developed a habit of consistently uploading my projects to GitHub, this portfolio was assembled with some examples of my recent faculty work and a fun example from when I first started learning how to code. 
 
 There are currently five subfolders in this repository.
 1) Začetki - A project from when I first started coding and decided to code a classic minesweeper that you can play right in the terminal.
